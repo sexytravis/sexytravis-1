@@ -1,5 +1,7 @@
 <template>
-  <div class="w-1/3 bg-blue-400"></div>
+  <div>
+
+  </div>
 </template>
 
 <script>
