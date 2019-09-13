@@ -1,6 +1,6 @@
 <template>
   <div>
-
+    <img src="~/assets/oFace.jpg" alt="Here I cum">
   </div>
 </template>
 
