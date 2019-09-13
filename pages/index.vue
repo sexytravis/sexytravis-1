@@ -1,6 +1,6 @@
 <template>
-  <div>
-   <Photo_Card :src=this.UwU></Photo_Card>
+  <div class="mx-auto text-center">
+   <Photo_Card></Photo_Card>
   </div>
 </template>
 
@@ -11,8 +11,7 @@
 	  components: {Photo_Card},
 	  data:function() {
 			return{
-				UwU : '/assets/oFace.jpg'
-
+			    imageURL : "/static/oFace.jpg"
       }
     }
   }
