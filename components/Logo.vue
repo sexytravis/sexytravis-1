@@ -1,6 +1,7 @@
 <template>
-  <div>
-    <img src="~/static/logo.png">
+  <div class="block">
+    <h1 class="inline-block text-2xl text-white">{{name1}}</h1>
+    <h1 class="inline-block text-2xl text-Pornhub-black bg-Pornhub-orange rounded px-2">{{name2}}</h1>
   </div>
 </template>
 <script>
