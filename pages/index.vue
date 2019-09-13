@@ -1,13 +1,21 @@
 <template>
   <div>
-    <img src="~/assets/oFace.jpg" alt="Here I cum">
+   <Photo_Card :src=this.UwU></Photo_Card>
   </div>
 </template>
 
 <script>
-	export default {
-		name: "index.vue"
-	}
+	import Photo_Card from "../components/Photo_Card";
+  export default {
+		name: "index.vue",
+	  components: {Photo_Card},
+	  data:function() {
+			return{
+				UwU : '/assets/oFace.jpg'
+
+      }
+    }
+  }
 </script>
 
 <style scoped>
