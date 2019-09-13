@@ -1,18 +1,13 @@
 <template>
-  <div class="container">
-
-  </div>
+  <div class="w-1/3 bg-blue-400"></div>
 </template>
 
 <script>
-
-export default {
-  components: {
-
-  },
-}
+	export default {
+		name: "index.vue"
+	}
 </script>
 
-<style>
+<style scoped>
 
 </style>

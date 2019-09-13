@@ -1,14 +1,13 @@
 <template>
-  <div class="mx-auto text-center">
+  <div>
     <logo></logo>
   </div>
 </template>
 
 <style>
   html{
-    background: #1b1b1b;
+    @apply bg-Pornhub-black
   }
-
 </style>
 <script>
 	import Logo from "../components/Logo";
