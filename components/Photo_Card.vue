@@ -1,18 +1,23 @@
 <template>
-	<div class="bg-black rounded-lg overflow-hidden">
-    <div class="p-6">
-    <img :src="property.imageURL" :alt="property.imageAlt">
-    </div>
+	<div class="h-screen">
+	<div class="container mx-auto flex h-full justify-center items-center">
+		<img src="~/static/oFace.jpg" class="inline-block h-screen w-auto rounded-lg shadow-md mx-auto">
   </div>
+	</div>
 </template>
 
 <script>
 	export default {
 		name: "Photo_Card",
-      props :['property'],
+		data : function () {
+			return{
+				imageURL : "~static/oFace.jpg"
+			}
+		}
 	}
 </script>
 
 <style scoped>
+
 
 </style>
