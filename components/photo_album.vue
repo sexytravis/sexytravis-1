@@ -2,10 +2,10 @@
 	<div class="">
 		<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 		<div class="">
-			<div class="mx-auto rounded-lg overflow-hidden h-screen w-auto">
+			<div class=" pa-gallery-player-widget mx-auto rounded-lg overflow-hidden h-screen w-auto"
 				data-link="https://photos.app.goo.gl/ribsuoocGybhrhwR7"
 				data-title="Travis pics"
-				data-description="16 new photos added to shared album"
+				data-description="18 new photos added to shared album"
 				data-background-color="transparent">
 				<object data="https://lh3.googleusercontent.com/jX4J2IhWbWzvrYOjYQZ5h7dAOjCLsiwH1hiWVsjiNnzAR3Lm5LH8b2aEmNgu0HFopewKADJhu73iQ9ARf49p15GIzvXFdQGn8sIvuyR23N3BfvzLP_kJPxYb-BklviVx-lJtCkcvmQ=w1920-h1080"></object>
 				<object data="https://lh3.googleusercontent.com/7f3AW3POye6_QZ2cfFfbxg8Gn7cVxIh1uJJm6s-eXtY6V2vEv7AZWfpPkDs86fvltR0EO4rGtkScbj2DHoxI4jHtNzECk1IOkKbg-RfAOT-Q3VMWAy6FCOoGDTCbfS-0GLbp9_dgzQ=w1920-h1080"></object>
